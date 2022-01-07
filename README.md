@@ -1,2 +1,2 @@
-# Object-detection-using-pytorch
-PyTorch object detection with pre-trained networks
+# Trsffic-sign-detection-using-pytorch
+Traffic signs recognition test using pytorch
